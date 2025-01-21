@@ -7,7 +7,6 @@
 - Download script [log.bat](https://github.com/saefulbarkah/fun-games/blob/main/log.bat)
 - Put `log.bat` to location `Wuthering Waves\Wuthering Waves Game\Client\Saved`
 - Right click on `log.bat` run as admin.
-- done
 
 ## Features
 ### Player
