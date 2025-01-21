@@ -41,8 +41,11 @@
 - Enable Skip Cutscene Button
 - Mob Vacuum
 - Collection Vacuum
-- Auto Loot
 - Auto Absorb
+- Auto Loot
+- Auto Puzzle, only works:
+  - Overflowing Palette
+  - Signals Console
 - Auto Sonance Casket
 - Auto Treasure
 - Auto Mining
