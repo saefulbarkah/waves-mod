@@ -66,3 +66,5 @@
 - FPS Unlocker
 - Change UID
 - Console Command
+
+### Custom keybind
