@@ -26,8 +26,8 @@
 - No Clip
 - Flight Mode, included:
   - Infinite stamina
-  - Allow fliying on all map
-  - Quick flight `[hotkey: 5]` no utility Flight required
+  - Can fly on all maps
+  - Quick flight `[hotkey: 5]` no utility flight required
 - Waypoints Teleport Range
   - Long range interaction to activate teleport
 - Interaction Range
