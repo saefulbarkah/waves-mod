@@ -51,8 +51,6 @@
 - Auto Mining
 
 ### Buff
-- ~~Max Resonance Chain (RC6)~~
-- ~~Max Weapon Rank (WIP)~~
 - One Hit Kill (Enemy loses 99% of HP when attacked)
 - Illusive Sprint
 - Buff stats
@@ -61,7 +59,6 @@
 - Custom Teleport
 
 ### Misc
-- ~~Unlock Skin~~
 - Show FPS
 - FPS Unlocker
 - Change UID
