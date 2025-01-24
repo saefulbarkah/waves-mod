@@ -1,4 +1,4 @@
-# 2.0.5 (Latest update)
+# 2.0.5 Latest Update
 
 ## READ THIS BEFORE USE
 - To avoid softlocked, Turn off `Kill Aura` while doing Quest.
