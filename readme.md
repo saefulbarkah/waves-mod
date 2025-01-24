@@ -25,13 +25,13 @@
 - No Clip
 - Flight Mode, included:
   - Infinite stamina
+  - No height or in battle condition restriction
   - Can fly on all maps
   - Quick flight `[hotkey: 5]` no utility flight required
 - Waypoints Teleport Range
   - Long range interaction to activate teleport
 - Interaction Range
-  - Long range interaction (npc talk, dungeon, collection, etc)
-
+  - Long range interaction (npc talk, dungeon, collection, interaction related)
 
 ### World
 - World Speed
@@ -50,8 +50,9 @@
 - Auto Mining
 
 ### Buff
-- Max Resonance Chain (RC6)
-- Max Weapon Rank (WIP)
+- ~~Max Resonance Chain (RC6)~~
+- ~~Max Weapon Rank (WIP)~~
+- One Hit Kill (Enemy loses 99% of HP when attacked)
 - Illusive Sprint
 - Buff stats
 
@@ -59,9 +60,7 @@
 - Custom Teleport
 
 ### Misc
-- Unlock Skin
-  - Sanhua
-  - Jinshi
+- ~~Unlock Skin~~
 - Show FPS
 - FPS Unlocker
 - Change UID
