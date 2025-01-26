@@ -1,4 +1,4 @@
-# 2.0.5
+# 2.0
 ![modui](https://github.com/user-attachments/assets/c7bcd90c-d8ce-41a7-b6b9-71cdde7c86f5)
 
 ## READ THIS BEFORE USE
